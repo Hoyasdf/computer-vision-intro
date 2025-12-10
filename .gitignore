@@ -1,3 +1,9 @@
 # Ignore dataset directories
 cifar-10/
 cifar-10-batches-py/
+
+# Ignore cache
+__pycache__/
+# Ignore checkpoints, dataset
+checkpoints/
+POC_Dataset/
